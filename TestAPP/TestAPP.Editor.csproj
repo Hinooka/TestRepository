@@ -340,6 +340,10 @@
       <Project>{D2DACB6F-CF94-59A3-E530-673E31092BF6}</Project>
       <Name>TestAPP</Name>
     </ProjectReference>
+    <ProjectReference Include="TestAPP.csproj">
+      <Project>{D2DACB6F-CF94-59A3-E530-673E31092BF6}</Project>
+      <Name>TestAPP</Name>
+    </ProjectReference>
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Packages\com.unity.standardevents\Editor\Importer.cs" />
