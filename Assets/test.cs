@@ -6,11 +6,11 @@ public class test : MonoBehaviour {
 
 	// Use this for initialization
 	void Start () {
-		
+        Debug.Log("fuck");
 	}
 	
 	// Update is called once per frame
 	void Update () {
-        Debug.Log("a;efi");
+        
 	}
 }
